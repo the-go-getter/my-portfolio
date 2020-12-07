@@ -168,6 +168,10 @@ header .scrolldown a:hover {
     color: #11ABB0;
 }
 
+#home {
+    height: 1000px;
+}
+
 /* primary navigation
 --------------------------------------------------------------------- */
 #nav-wrap ul, #nav-wrap li, #nav-wrap a {
