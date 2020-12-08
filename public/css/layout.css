@@ -168,10 +168,6 @@ header .scrolldown a:hover {
     color: #11ABB0;
 }
 
-#home {
-    height: 1000px;
-}
-
 /* primary navigation
 --------------------------------------------------------------------- */
 #nav-wrap ul, #nav-wrap li, #nav-wrap a {
@@ -1135,7 +1131,7 @@ ul#nav li.current a {
 }
 
 #contact label {
-    font: 15px/24px 'opensans-bold', sans-serif;
+    font: 17px/26px 'opensans-bold', sans-serif;
     margin: 12px 0;
     color: #EBEEEE;
     display: inline-block;
@@ -1169,17 +1165,18 @@ ul#nav li.current a {
     letter-spacing: 3px;
     color: #fff;
     background: #0D0D0D;
+    border-radius: 30%;
     border: none;
     cursor: pointer;
     height: auto;
     display: inline-block;
     border-radius: 3px;
-    margin-left: 26%;
+    margin-left: 17%;
 }
 
-#contact button.submit:hover {
-    color: #0D0D0D;
-    background: #fff;
+#contact .submit-btn:hover {
+    color: #0bd7e6;
+    background: rgba(255, 255, 255, 0.1);
 }
 
 #contact span.required {
