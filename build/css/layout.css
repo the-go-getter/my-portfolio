@@ -631,6 +631,18 @@ ul#nav li.current a {
     -webkit-animation: sql 2s ease;
 }
 
+.javascript {
+    width: 80%;
+    -moz-animation: javacript 2s ease;
+    -webkit-animation: javascript 2s ease;
+}
+
+.c\/c\+\+ {
+    width: 75%;
+    -moz-animation: c\/c\+\+ 2s ease;
+    -webkit-animation: c\/c\+\+ 2s ease;
+}
+
 .reactjs {
     width: 90%;
     -moz-animation: reactjs 2s ease;

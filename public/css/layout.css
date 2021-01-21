@@ -633,14 +633,14 @@ ul#nav li.current a {
 
 .javascript {
     width: 80%;
-    -moz-animation: sql 2s ease;
-    -webkit-animation: sql 2s ease;
+    -moz-animation: javacript 2s ease;
+    -webkit-animation: javascript 2s ease;
 }
 
-.c\/c++ {
+.c\/c\+\+ {
     width: 75%;
-    -moz-animation: sql 2s ease;
-    -webkit-animation: sql 2s ease;
+    -moz-animation: c\/c\+\+ 2s ease;
+    -webkit-animation: c\/c\+\+ 2s ease;
 }
 
 .reactjs {
