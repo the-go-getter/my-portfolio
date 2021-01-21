@@ -110,6 +110,12 @@ let resumeData = {
             "skillname": "SQL"
         },
         {
+            "skillname": "Javascript"
+        },
+        {
+            "skillname": "C/C++"
+        },
+        {
             "skillname": "Reactjs"
         },
         {
@@ -124,21 +130,21 @@ let resumeData = {
             "description": "Python web crawler, page ranker and visualizer",
             "name": "Search Engine",
             "imgurl" : "https://totheweb-com.exactdn.com/wp-content/uploads/2018/09/Search-Engine-Simulator-80_20fbd47708ae8fa220591a57cb64df2c.jpg?strip=all&lossy=1&quality=85&ssl=1",
-            "link": "",
+            "link": "https://github.com/the-go-getter/Page-ranker",
             "repo": ""
         },
         {
             "description": "Website providing stock market investment suggestions",
             "name": "Stocks4all",
             "imgurl" : "https://www.uaebarq.ae/en/wp-content/uploads/2018/05/stock-market.jpg",
-            "link": "",
+            "link": "https://github.com/the-go-getter/Stocks-for-all-client",
             "repo": ""
         },
         {
             "description": "Java based chat application",
             "name": "Prattle chat",
             "imgurl" : "https://colorlib.com/wp/wp-content/uploads/sites/2/wordpress-live-chat-plugins.png",
-            "link": "",
+            "link": "https://github.com/the-go-getter/Java-chat-app",
             "repo": ""
         },
         {
@@ -150,16 +156,16 @@ let resumeData = {
         },
         {
             "description": "Application for creating SVG animations",
-            "name": "Pokémon vs. Pollutionators game",
+            "name": "Easy Animator",
             "imgurl" : "https://www.bloopanimation.com/wp-content/uploads/2015/11/you-wont-be-an-animator-1103x575.jpg",
-            "link": "",
+            "link": "https://github.com/the-go-getter/Java-animator",
             "repo": ""
         },
         {
             "description": "Python game inspired by SEGA's Space invaders",
             "name": "Pokémon vs. Pollutionators",
             "imgurl" : "https://www.thequiz.com/wordpress/wp-content/uploads/2018/07/https_2F2Fblueprint-api-production.jpg",
-            "link": "",
+            "link": "https://github.com/the-go-getter/Pokemon-vs-Pollutionators",
             "repo": ""
         },
         {

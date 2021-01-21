@@ -13,15 +13,17 @@ export default class Project extends Component {
                                 resumeData.projects && resumeData.projects.map((item) => {
                                     return (
                                         <div className="columns project-item">
-                                            <div className="item-wrap">
-                                                <img src={`${item.imgurl}`} className="item-img"/>
-                                                <div className="overlay">
-                                                    <div className="project-item-meta">
-                                                        <h5 className="project-name">{item.name}</h5>
-                                                        <p className="project-description">{item.description}</p>
+                                            <a className="project-link" target="_blank" rel="noopener noreferrer" href={item.link}>
+                                                <div className="item-wrap">
+                                                    <img src={`${item.imgurl}`} className="item-img"/>
+                                                    <div className="overlay">
+                                                        <div className="project-item-meta">
+                                                            <h5 className="project-name">{item.name}</h5>
+                                                            <p className="project-description">{item.description}</p>
+                                                        </div>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </a>
                                         </div>
                                     )
                                 })
