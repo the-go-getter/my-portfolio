@@ -101,28 +101,36 @@ let resumeData = {
     "skillsDescription": "",
     "skills": [
         {
-            "skillname": "Java"
+            "skillname": "Java",
+            "expertise": "90%"
         },
         {
-            "skillname": "Python"
+            "skillname": "Python",
+            "expertise": "90%"
         },
         {
-            "skillname": "SQL"
+            "skillname": "SQL",
+            "expertise": "90%"
         },
         {
-            "skillname": "Javascript"
+            "skillname": "Javascript",
+            "expertise": "80%"
         },
         {
-            "skillname": "C/C++"
+            "skillname": "C/C++",
+            "expertise": "75%"
         },
         {
-            "skillname": "Reactjs"
+            "skillname": "Reactjs",
+            "expertise": "90%"
         },
         {
-            "skillname": "Angularjs"
+            "skillname": "Angularjs",
+            "expertise": "80%"
         },
         {
-            "skillname": "Nodejs"
+            "skillname": "Nodejs",
+            "expertise": "80%"
         }
     ],
     "projects": [
