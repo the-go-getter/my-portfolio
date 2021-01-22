@@ -12,9 +12,10 @@ export default class Project extends Component {
                             {
                                 resumeData.projects && resumeData.projects.map((item) => {
                                     return (
-                                        <div className="columns project-item">
-                                            <a className="project-link" target="_blank" rel="noopener noreferrer" href={item.link}>
-                                                <div className="item-wrap">
+                                        <a className="project-link" target="_blank" rel="noopener noreferrer"
+                                           href={item.link}>
+                                            <div className="columns project-item">
+                                                <div className="item-wrap" href={item.link}>
                                                     <img src={`${item.imgurl}`} className="item-img"/>
                                                     <div className="overlay">
                                                         <div className="project-item-meta">
@@ -23,8 +24,8 @@ export default class Project extends Component {
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </a>
-                                        </div>
+                                            </div>
+                                        </a>
                                     )
                                 })
                             }
