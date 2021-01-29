@@ -812,7 +812,7 @@ ul#nav li.current a {
 }
 
 .project-item {
-    float: right;
+    float: left;
 }
 
 #project h1 span {
