@@ -26,10 +26,10 @@ let resumeData = {
             "specialization": "M.S in Computer Science",
             "MonthOfJoining": "January",
             "YearOfJoining": "2019",
-            "MonthOfPassing": "April",
-            "YearOfPassing": "2021",
-            "Achievements": "Courses:- Data mining techniques, Robotic Science and Systems, Mobile Application Development," +
-                " Web Development, Database Management Systems"
+            "MonthOfPassing": "Present",
+            "YearOfPassing": "",
+            "Achievements": "Courses:- Data mining techniques, Robotic Science and Systems, " +
+                "Web Development, Database Management Systems, Object Oriented Design, Computer Systems"
         },
         {
             "UniversityName": "Manipal University, Manipal, India",
